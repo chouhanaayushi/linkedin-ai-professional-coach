@@ -1,4 +1,4 @@
-# linkedin-ai-professional-coach# LinkedIn AI Professional Coach
+# LinkedIn AI Professional Coach
 
 An AI workflow agent built using Agent.ai and GPT-5-mini to analyze and optimize LinkedIn profile content.
 
